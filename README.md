@@ -237,3 +237,6 @@ This repository serves as the official landing page for Label Spirit. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Label Spirit today!**
+
+---
+**Last updated:** 2026-09-12 19:06:39 UTC
